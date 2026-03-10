@@ -55,4 +55,4 @@ Compare the original noisy data with the processed output below:
    ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK.ipynb)
+https://colab.research.google.com/drive/1XMakcwU2GTjk6aU3leRxcn4BDjrDrvKy#scrollTo=BnulM4D1LYQE
